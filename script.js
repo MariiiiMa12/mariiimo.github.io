@@ -77,4 +77,3 @@ const classNames = {
     uncheckedCountSpan.textContent = uncheckedCount
   }
   
-  
